@@ -32,4 +32,5 @@ The player's and computer's scores are updated according to the round results.
 The game follows a best out of 3 rounds structure. After 3 rounds, the overall winner is determined based on the scores.
 
 # Image Exampel of the game. 
-![3a50bfcd-a534-4ecd-8167-7120990c33a6](https://github.com/PerparimShabani/PP2-Rock-Paper-Scissors/assets/132937791/4a06e918-2584-46a6-98bc-099fb26c9a35)
+![7ece33c3-b8e1-4801-a866-e78d0559e769](https://github.com/PerparimShabani/Project-2/assets/132937791/93cf8f17-89d1-435c-8af0-5276cfbc504f)
+
