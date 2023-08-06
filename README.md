@@ -34,3 +34,15 @@ The game follows a best out of 3 rounds structure. After 3 rounds, the overall w
 # Image Exampel of the game. 
 ![7ece33c3-b8e1-4801-a866-e78d0559e769](https://github.com/PerparimShabani/Project-2/assets/132937791/93cf8f17-89d1-435c-8af0-5276cfbc504f)
 
+## Validator Testing 
+* Html
+  - No errors were returned when passing through the official W3C validator
+* CSS
+  - No errors were found when passing through the official (Jigsaw) validator
+* JavaScript
+  - No errors were found when passing through the official Jshint validator
+    - The following metric was returned:
+    - There are 5 functions in this file.
+    - Function with the largest signature take 1 arguments, while the median is 0.
+    - Largest function has 18 statements in it, while the median is 3.
+    - The most complex function has a cyclomatic complexity value of 8 while the median is 1.
