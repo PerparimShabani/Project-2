@@ -29,7 +29,7 @@ The computer's choice is randomly generated from the available options (Charmand
 * #### Score Tracking: 
 The player's and computer's scores are updated according to the round results.
 * #### Best Out of 5 Logic: 
-The game follows a best out of 3 rounds structure. After 3 rounds, the overall winner is determined based on the scores.
+The game follows a best out of 5 rounds structure. After 5 rounds, the overall winner is determined based on the scores.
 
 # Image Exampel of the game. 
 ![7ece33c3-b8e1-4801-a866-e78d0559e769](https://github.com/PerparimShabani/Project-2/assets/132937791/93cf8f17-89d1-435c-8af0-5276cfbc504f)
