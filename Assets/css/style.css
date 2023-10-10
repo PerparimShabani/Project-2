@@ -127,3 +127,21 @@ body {
     filter: hue-rotate(90deg);
     margin-left: 3%;
 }
+
+.Error {
+    text-align: center; /* center the text of the 404 error file */
+    background-color: #ffffff;
+    padding: 20px;
+    height: 50vh;
+}
+
+.Error h1 {
+    font-size: 24px;/* Adjust font-size */
+    color: rgb(0, 0, 0); /* Color heading */
+}
+
+.Error p {
+    font-size: 22px;
+    color: #030000;
+    font-weight: bold;
+}
