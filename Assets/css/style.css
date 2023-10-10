@@ -10,15 +10,15 @@ body {
     font-size: 24px;
     color: white;
     font-weight: bold;
-    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    text-shadow: 2px 1px 4px rgb(0, 0, 0);
 }
 
 /* Styling of the choice text */
 .choiceText {
-    font-size: 24px;
+    font-size: 25px;
     font-weight: bold;
-    text-shadow: 2px 2px 4px rgb(0, 0, 0);
-    color: lightblue;
+    text-shadow: 3px 1px 4px rgb(0, 0, 0);
+    color: rgb(255, 103, 103);
 }
 
 /* For the game container element*/
@@ -33,7 +33,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     border-radius: 20px;
-    background-image: url(/Assets/Images/Poke-field.png);
+    background-image: url(../Images/Poke-field.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
