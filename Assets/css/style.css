@@ -33,7 +33,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     border-radius: 20px;
-    background-image: url(./images/Poke-field.png);
+    background-image: url(/Assets/Images/Poke-field.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 100% 100%;
