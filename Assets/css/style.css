@@ -60,14 +60,13 @@ body {
   gap: 10px;
 }
 
-header {
-  color: rgb(179, 179, 179);
+h1 {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  text-shadow: 3px 2px 4px rgb(0, 0, 0);
+  color: rgb(255, 253, 253);
   background-color: rgba(0, 0, 0, 0.6);
-  font-size: 10px;
+  width: auto;
+  display: inline-block;
 }
 
 /* Styling for the buttons container */
