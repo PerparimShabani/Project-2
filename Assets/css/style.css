@@ -48,7 +48,7 @@ body {
   body {
     background-image: url(../Images/Poke-field.png);
     background-size: contain;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
   }
 }
 
@@ -99,10 +99,12 @@ h1 {
 /*img modifications within choice buttons */
 .choiceBtn img {
   width: fit-content;
-  height: 60px;
+  height: 90px;
   margin-bottom: 5px;
   opacity: 1;
   transition: opacity 0.2s;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
 }
 
 /* For hover effect on choice buttons */
