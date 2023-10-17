@@ -96,49 +96,14 @@ body {
   transition: opacity 0.2s;
 }
 
-/* Specific modification for water-type Squirtle*/
-.choiceBtn.water-squirtle img {
-  margin-left: 45px;
-  padding: 10px;
-  height: 90px;
-}
-
-/* Specific modification for grass-type Bulbasaur */
-.choiceBtn.grass-bulbasaur img {
-  margin-left: 35px;
-  padding: 10px;
-  height: 80px;
-}
-
-/* Specific modification for fire-type Charmander */
-.choiceBtn.fire-charmander img {
-  margin-right: 50px;
-}
-
 /* For hover effect on choice buttons */
 .choiceBtn:hover {
   transform: scale(1.1);
 }
 
-/* Specific modifications for fire-type button image */
-.choiceBtn.fire img {
-  opacity: 1;
-  filter: hue-rotate(0deg);
-  margin-left: 10px;
-}
-
-/* Specific modifications for water-type button image */
-.choiceBtn.water img {
-  opacity: 1;
-  filter: hue-rotate(180deg);
-  margin-right: 20px;
-}
-
-/* Specific modifications for grass-type button image*/
-.choiceBtn.grass img {
-  opacity: 1;
-  filter: hue-rotate(90deg);
-  margin-left: 3%;
+.buttonCont {
+    display: flex;
+    flex-direction: column;
 }
 
 .Error {
