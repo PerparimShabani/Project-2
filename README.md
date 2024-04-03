@@ -49,6 +49,14 @@ The game follows a best out of 5 rounds structure. After 5 rounds, the overall w
     - Image below 
 ![image](https://github.com/PerparimShabani/Project-2/assets/132937791/8a46e7d5-5ace-4fb1-84bc-d92bc1a7b6ea)
 
+ - Accessibility Testing: Used Wave WebAIM to test accessibility, screenshots bellow
+![image](https://github.com/PerparimShabani/Project-2/assets/132937791/9306d6cb-48e4-4f1c-8fba-a982f63fee3a)
+![image](https://github.com/PerparimShabani/Project-2/assets/132937791/32f74e4f-b5de-4a82-9c1e-239da7214ae2)
+![image](https://github.com/PerparimShabani/Project-2/assets/132937791/a18c5e6b-ae8a-4bc2-abf3-e9d2d27433bc)
+
+
+
+
 
 ## Credits 
 * Pokemon images: Images sourced from https://imgbin.com/free-png/pokemon-pixel
