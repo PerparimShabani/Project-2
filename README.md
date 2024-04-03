@@ -37,8 +37,12 @@ The game follows a best out of 5 rounds structure. After 5 rounds, the overall w
 ## Validator Testing 
 * Html
   - No errors were returned when passing through the official W3C validator
+  - ![image](https://github.com/PerparimShabani/Project-2/assets/132937791/7c77ff45-df89-40e9-a6c2-f81f29e4ed99)
+
 * CSS
   - No errors were found when passing through the official (Jigsaw) validator
+  - ![image](https://github.com/PerparimShabani/Project-2/assets/132937791/e8fcdb07-5cd1-48d2-881a-81a7291ab455)
+
 * JavaScript
   - No errors were found when passing through the official Jshint validator
     - The following metric was returned:
