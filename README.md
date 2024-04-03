@@ -46,6 +46,8 @@ The game follows a best out of 5 rounds structure. After 5 rounds, the overall w
     - Function with the largest signature take 1 arguments, while the median is 0.
     - Largest function has 18 statements in it, while the median is 3.
     - The most complex function has a cyclomatic complexity value of 8 while the median is 1.
+    - Image below 
+![image](https://github.com/PerparimShabani/Project-2/assets/132937791/8a46e7d5-5ace-4fb1-84bc-d92bc1a7b6ea)
 
 
 ## Credits 
