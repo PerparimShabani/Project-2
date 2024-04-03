@@ -60,6 +60,10 @@ The game follows a best out of 5 rounds structure. After 5 rounds, the overall w
 
 
 
+## Deployment
+ ### GitHub Pages Deployment:
+  Deployed the project to GitHub Pages by navigating to the repository settings and enabling GitHub Pages for the main branch.
+
 
 
 ## Credits 
